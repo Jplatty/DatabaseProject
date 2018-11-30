@@ -1,0 +1,29 @@
+{
+  "name": "databaseproject",
+  "version": "1.0.0",
+  "description": "Creating an app that uses Node.js &amp; express, that serves up to HTTP that is backed up by Mysql.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cryptr": "^4.0.2",
+    "express": "^4.16.4",
+    "localhost-server": "^1.12.0",
+    "myql": "^1.0.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jplatty/DatabaseProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jplatty/DatabaseProject/issues"
+  },
+  "homepage": "https://github.com/Jplatty/DatabaseProject#readme"
+}
